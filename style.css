@@ -1,0 +1,175 @@
+.div1 {
+    height: 900px;
+    width: 1500px;
+    background-color:bisque;
+}
+.div2{
+    height: 80px;
+    width: 1500px;
+   
+    display: flex;
+
+}
+.div3{
+        height: 80px;
+    width: 200px;
+  
+    text-align: center;
+    padding-top:15px ;
+    display: flex;
+
+}
+.pdf1{
+    height: 30px;
+    width: 30px;
+    padding-left: 20px;
+    padding-top: 12px;
+
+}
+.go1{
+    display: inline;
+}
+.div4 {
+    height: 80px;
+    width: 900px;
+
+    display: flex;
+}
+
+.nav1 {
+    display: inline-block;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 350px;
+}
+
+.list-item {
+    display: inline-block;
+    margin-right: 30px;
+}
+.div5{
+    height: 80px;
+    width: 400px;
+    display: flex;
+    
+}
+.list2{
+    display: inline-block;
+    margin-right: 30px;
+    padding-top: 27px;
+    padding-left: 100px;
+    width: 50px;
+}
+.btn2{
+    background-color: rgb(246, 2, 2);
+   color: rgb(255, 255, 255);
+   height: 30px;
+
+}
+.btn1{
+   background-color: rgb(254, 254, 254);
+   color: rgb(251, 0, 0);
+   height: 30px;
+}
+.div6{
+    height: 300px;
+    width: 1500px;
+    
+    display: flex;
+}
+.abc1{
+    text-align: center;
+    height: 300px;
+    width: 700px;
+   
+    
+    
+}
+
+.h1{
+    padding-right: 185px;
+    padding-top: 35px;
+}
+
+.abc2{
+    text-align: center;
+    height: 300px;
+    width: 900px;
+    background-color: blanchedalmond;
+    display: flex;
+}
+.p1{
+    padding-top: -25px;
+    padding-right: -20px;
+}
+.btn3{
+    display: flex;
+}
+.btn2{ 
+    display: flex;
+    padding-left: 10px;
+  
+    margin-left: 170px;
+
+}
+.img1{
+    height: 300px;
+    width: 850px;
+    padding-left:40px ;
+}
+.h21{
+    padding-left:40px ;
+    padding-top: -100px;
+}
+.div7{
+   
+    background-color: aqua;
+    height: 300px;
+    width: 1500px;
+}
+
+.parentdiv1{
+   display: flex;
+}
+
+.div21,.div31,.div41,.div51{
+    height: 300px;
+    width: 380px;
+}
+
+.div21{
+    background-color: rgb(173, 128, 24);
+}
+.div31{
+    background-color: rgb(60, 11, 90);
+}
+.div41{
+    background-color: rgb(90, 6, 65);
+}
+.div51{
+    background-color: rgb(117, 5, 9);
+}
+.div8{
+    height: 400px;
+    width: 1500px;
+    background-color: blueviolet;
+}
+.h123{
+    padding-left:40px ;
+    padding-top: 30px;
+}
+.parentdiv2{
+    display: flex;
+
+}
+.div22{
+    background-color: blue;
+    height: 300px;
+    width:750px ;
+}
+.div32{
+    background-color: aquamarine;
+    height: 300px;
+    width: 750px;
+
+}
